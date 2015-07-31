@@ -7,6 +7,8 @@ import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.xml.bind.annotation.XmlRootElement;
 
+//Classe Modelo
+
 @Entity
 @XmlRootElement
 @NamedQueries({
